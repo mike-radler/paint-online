@@ -5,7 +5,6 @@ Login:
 ![Login](https://github.com/mike-radler/paint-online/blob/master/screenshots/Login.png)
 
 App:
-
 ![App](https://github.com/mike-radler/paint-online/blob/master/screenshots/Drawing.png)
 
 
